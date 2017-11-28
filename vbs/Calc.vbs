@@ -1,0 +1,1 @@
+Dim obj = a
