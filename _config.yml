@@ -2,7 +2,7 @@ title: Activetree.GitHub.io
 description: Hello! This is Longhua
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
