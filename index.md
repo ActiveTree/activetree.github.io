@@ -9,7 +9,7 @@ Test
 Hello
 
 
-[I'm a relative reference to a repository file](good.html)
+[I'm a relative reference to a repository file](good.md)
 
 [Animal](animal.md)
 
